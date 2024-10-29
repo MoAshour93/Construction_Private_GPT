@@ -1,6 +1,21 @@
 # 📄 GPT-4ALL Document Query Chatbot
 
-This project enables users to query a wide variety of documents using an advanced chatbot powered by open-source LLMs like GPT-4ALL and Llama. Leveraging embeddings, vector databases, and data loaders, this system efficiently handles document parsing, storage, and retrieval. 
+This project enables users to query a wide variety of documents using an advanced chatbot powered by open-source LLMs like GPT-4ALL and Llama. Leveraging embeddings, vector databases, and data loaders, this system efficiently handles document parsing, storage, and retrieval.
+
+## 📑 Table of Contents
+- [📌 Project Overview](#-project-overview)
+- [🚀 Features](#-features)
+- [📂 Project Structure](#-project-structure)
+- [🛠 Installation](#-installation)
+- [🚀 Usage](#-usage)
+- [🔗 General Links & Resources](#-general-links--resources)
+- [⚙️ Configuration](#%EF%B8%8F-configuration)
+- [🗂️ Supported Document Formats](#%EF%B8%8F-supported-document-formats)
+- [📈 Limitations & Next Steps](#-limitations--next-steps)
+- [📄 License](#-license)
+- [📞 Support](#-support)
+
+---
 
 ## 📌 Project Overview
 
