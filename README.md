@@ -36,8 +36,8 @@ Built with `langchain` and `chromadb`, this solution processes documents by:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/MoAshour93/Private_GPT.git
-    cd gpt4all-document-query-chatbot
+    git clone https://github.com/MoAshour93/Construction_Private_GPT.git
+    cd Construction_Private_GPT
     ```
 
 2. **Install dependencies**:
